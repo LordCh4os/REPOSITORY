@@ -1,0 +1,14 @@
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\bin\Debug\QuestInserter.exe.config
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\bin\Debug\QuestInserter.exe
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\bin\Debug\QuestInserter.pdb
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\bin\Debug\MetroFramework.dll
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.csprojAssemblyReference.cache
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.MainForm.resources
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.Properties.Resources.resources
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.csproj.GenerateResource.cache
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.csproj.CoreCompileInputs.cache
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.csproj.CopyComplete
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.exe
+C:\Users\Lord Ch4ıs\source\repos\QuestInserter\QuestInserter\obj\Debug\QuestInserter.pdb
